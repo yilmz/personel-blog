@@ -1,0 +1,46 @@
+
+
+  body {
+    font-family: 'Oswald', sans-serif;
+
+    background-color:  #351F39 !important;
+  }
+
+  .masthead {
+    min-height: 40rem;
+    position: relative;
+    display: table;
+    width: 100%;
+    height: auto;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  nav .navbar-nav li a{
+    color: #719FB0 !important;
+  }
+
+  nav .navbar-nav li a:hover{
+        color: #A0C1B8 !important;
+ }
+
+ .navbar-brand {
+    font-size:36px;
+    color: #719FB0 !important;
+ }
+ .nav-link{
+     font-size:24px;
+ }
+ .card{
+   background-color: #726A95 !important;
+ }
+ .hireMe{
+  background-color: #719FB0 !important;
+ }
+
+ .projectLink{
+  color: #719FB0 !important;
+}
